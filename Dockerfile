@@ -1,1 +1,1 @@
-From registry.k8s.io/ingress-nginx/controller:v1.5.1
+From registry.k8s.io/ingress-nginx/controller:v1.3.1
